@@ -1,0 +1,49 @@
+.container
+{
+  background-color:#cb997e;
+}
+.inside
+{
+  width:70%;
+  margin:40px auto;
+  padding:16 px;
+}
+nav{
+  font-size:bold;
+  margin:16px auto;
+  padding:16px;
+}
+section{
+  background-color: white;
+border:2px solid #ccc;
+padding:16px;
+font-family:Arial, Helvetica, sans-serif;
+}
+section img{
+  float:left;
+  width:30%;
+  height:200px;
+  margin-right:16px;
+}
+section pre{
+  text-align: center;
+  letter-spacing:1.5;
+  margin:40px auto;
+  font-size: bold;
+}
+main{
+  background-color: white;
+border:2px solid #ccc;
+padding:20px;
+margin:40px auto;
+}
+article{
+  background-color: white;
+  border:2px solid #ccc;
+  padding:16 px;
+  margin:40px auto;
+}
+h3{
+  margin:40px auto;
+  padding:16px;
+}
